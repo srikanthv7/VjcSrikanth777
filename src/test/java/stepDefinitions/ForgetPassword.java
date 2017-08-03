@@ -6,6 +6,6 @@ public class ForgetPassword {
 
 	@When("^I click Login link$")
 	public void clickLoginLink() {
-		//test commit
+		//test commit  abc abcccc
 	}
 }
